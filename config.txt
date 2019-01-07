@@ -1,0 +1,6 @@
+token= NTMxMzYzOTM2NDAzMTkzODU3.DxSLOg.e3IS7SLe01DC5XkPHNSrZnFVR3Y
+owner= 506939533686734858
+prefix= 1
+game= 1play by Lizer
+stayinchannel=true 
+songinstatus=false 
